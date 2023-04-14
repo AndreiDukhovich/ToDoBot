@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 
-.gockerignore
+.dockerignore
 Dockerfile
 fly.toml
